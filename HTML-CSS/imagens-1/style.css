@@ -1,5 +1,6 @@
 img {
   max-width: 100%;
+  width: 600px;
   display: block;
 }
 div {
@@ -7,4 +8,8 @@ div {
 }
 .foto {
   width: 150px;
+}
+
+body {
+  background: lightblue;
 }
